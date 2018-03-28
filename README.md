@@ -1,4 +1,5 @@
 # gene_info.py - get information about the number of introns and the length of genes from the GFF3 file
+[![DOI](https://zenodo.org/badge/127181721.svg)](https://zenodo.org/badge/latestdoi/127181721)
 ## Installation
 Before using the script, [PyInterval](https://github.com/taschini/pyinterval/) needs to be installed:
 ```bash
